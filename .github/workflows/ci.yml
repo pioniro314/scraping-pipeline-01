@@ -21,4 +21,3 @@ jobs:
 
       - name: Run tests
         run: PYTHONPATH=. pytest
-        language_version: python3.10
